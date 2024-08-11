@@ -1,4 +1,5 @@
 - you need to preinstall apache and ngrok
+- it also supports github links to automatically download and get paths
 - just download the repo and run the main.py file
 - REMEMBER!!! the main.py must be excutable
 - answer the questions the script ask.(1 OR 2)
